@@ -1,0 +1,15 @@
+1. install expo-cli using following command 
+npm install -g expo-cli
+expo init MovieMobile
+
+Choose the empty template.
+
+cd MovieMobile
+npm start 
+
+Install expo client app in your mobile 
+and scan the QR code the run the mobile i your mbile
+or
+
+start emulator and press a to run the application in emulator
+
